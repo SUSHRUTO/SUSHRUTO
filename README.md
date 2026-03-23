@@ -17,37 +17,37 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html" height="30"/> 
-<img src="https://skillicons.dev/icons?i=css" height="30"/> 
-<img src="https://skillicons.dev/icons?i=js" height="30"/> 
-<img src="https://skillicons.dev/icons?i=ts" height="30"/> 
-<img src="https://skillicons.dev/icons?i=react" height="30"/> 
-<img src="https://skillicons.dev/icons?i=tailwind" height="30"/>  
+<img src="https://skillicons.dev/icons?i=html" height="30"/> HTML
+<img src="https://skillicons.dev/icons?i=css" height="30"/> CSS
+<img src="https://skillicons.dev/icons?i=js" height="30"/> JAVASCRIPT
+<img src="https://skillicons.dev/icons?i=ts" height="30"/> TYPESCRIPT 
+<img src="https://skillicons.dev/icons?i=react" height="30"/> REACT
+<img src="https://skillicons.dev/icons?i=tailwind" height="30"/> TAILWIND 
 
 ---
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="30"/> 
-<img src="https://skillicons.dev/icons?i=express" height="30"/> 
-<img src="https://skillicons.dev/icons?i=nestjs" height="30"/>  
+<img src="https://skillicons.dev/icons?i=nodejs" height="30"/> NODE JS
+<img src="https://skillicons.dev/icons?i=express" height="30"/> EXPRESS JS
+<img src="https://skillicons.dev/icons?i=nextjs" height="30"/> NEXT JS
 
 ---
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb" height="30"/> 
-<img src="https://skillicons.dev/icons?i=postgres" height="30"/> 
-<img src="https://skillicons.dev/icons?i=firebase" height="30"/>  
+<img src="https://skillicons.dev/icons?i=mongodb" height="30"/> MONGODB
+<img src="https://skillicons.dev/icons?i=postgres" height="30"/> POSTGRES
+<img src="https://skillicons.dev/icons?i=firebase" height="30"/> FIREBASE  
 
 ---
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git" height="30"/> 
-<img src="https://skillicons.dev/icons?i=github" height="30"/> 
-<img src="https://skillicons.dev/icons?i=docker" height="30"/> 
-<img src="https://skillicons.dev/icons?i=vscode" height="30"/>  
+<img src="https://skillicons.dev/icons?i=git" height="30"/> GIT
+<img src="https://skillicons.dev/icons?i=github" height="30"/> GITHUB
+<img src="https://skillicons.dev/icons?i=docker" height="30"/> DOCKER
+<img src="https://skillicons.dev/icons?i=vscode" height="30"/> VSCODE
 
 ---
 
