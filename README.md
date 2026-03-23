@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,50:6dd5ed,100:1e3c72&height=220&section=header&text=Sushruto%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1c3d5a&height=220&section=header&text=Sushruto%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+to+Work;Backend+Enthusiast" />
