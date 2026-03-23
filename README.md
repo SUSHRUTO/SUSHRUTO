@@ -98,7 +98,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=SUSHRUTO&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=SUSHRUTO&theme=tokyonight&no-frame=true&margin-w=10" />
 
 ---
 
