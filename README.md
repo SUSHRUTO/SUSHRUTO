@@ -1,14 +1,22 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sushruto%20Majumdar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Backend+Enthusiast;Open+Source+Contributor" />
+</p>
+
+---
+
 # 👋 Hi, I'm Sushruto Majumdar
 
-🎓 ECE Student | 💻 Full Stack Developer | 🚀 Backend Enthusiast
+🎓 ECE Student | 💻 Software Developer | 🚀 Backend Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **MERN Stack, NextJS, NestJS & System Design**
-* 💡 Building real-world projects like **Smart Parking System (IoT + Web)**
-* 🎯 Targeting **Product-based companies, startups & MNCs**
+* 🌱 Currently learning **MERN Stack, DSA & System Design**
+* 💡 Building **Smart Parking System (IoT + Web + Firebase)**
+* 🎯 Targeting **Product-based companies startups & MNCs**
 * ⚡ Passionate about scalable backend systems
 
 ---
@@ -17,37 +25,25 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html" height="30"/> HTML
-<img src="https://skillicons.dev/icons?i=css" height="30"/> CSS
-<img src="https://skillicons.dev/icons?i=js" height="30"/> JAVASCRIPT
-<img src="https://skillicons.dev/icons?i=ts" height="30"/> TYPESCRIPT 
-<img src="https://skillicons.dev/icons?i=react" height="30"/> REACT
-<img src="https://skillicons.dev/icons?i=tailwind" height="30"/> TAILWIND 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 
 ---
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="30"/> NODE JS
-<img src="https://skillicons.dev/icons?i=express" height="30"/> EXPRESS JS
-<img src="https://skillicons.dev/icons?i=nextjs" height="30"/> NEXT JS
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 
 ---
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb" height="30"/> MONGODB
-<img src="https://skillicons.dev/icons?i=postgres" height="30"/> POSTGRES
-<img src="https://skillicons.dev/icons?i=firebase" height="30"/> FIREBASE  
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
 
 ---
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git" height="30"/> GIT
-<img src="https://skillicons.dev/icons?i=github" height="30"/> GITHUB
-<img src="https://skillicons.dev/icons?i=docker" height="30"/> DOCKER
-<img src="https://skillicons.dev/icons?i=vscode" height="30"/> VSCODE
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 ---
 
@@ -66,41 +62,43 @@
 
 * Custom Tailwind utility package
 * Published on npm
-* Focused on reusable UI components
+* Reusable UI components
 
 ---
 
 ### 🌐 Portfolio Website
 
 * Personal developer portfolio
-* Showcases projects & skills
 * Responsive & modern UI
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SUSHRUTO\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUSHRUTO\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUSHRUTO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSHRUTO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SUSHRUTO\&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SUSHRUTO&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUSHRUTO\&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSHRUTO&theme=tokyo-night" />
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SUSHRUTO\&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=SUSHRUTO&theme=tokyonight" />
 
 ---
 
@@ -111,6 +109,4 @@
 
 ---
 
-⭐️ From [Sushruto Majumdar](https://github.com/SUSHRUTO)
-
-
+⭐️ From [Sushruto Majumdar](https://github.com/YOUR_USERNAME)
