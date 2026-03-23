@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sushruto%20Majumdar&fontSize=40&fontColor=00F7FF&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e90ff,50:00b4db,100:0077b6&height=220&section=header&text=Sushruto%20Majumdar&fontSize=40&fontColor=ffffff&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=>+npm+start;>+Building+Scalable+Backend;>+MERN+Stack+Developer;>+System+Design+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Enthusiast;Open+to+Work+and+Collaborate;>+Building+Real+World+Projects" />
 </p>
 
 ---
