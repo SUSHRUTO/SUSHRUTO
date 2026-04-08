@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **MERN Stack, DSA & System Design**
+* 🌱 Currently learning **Full Stack Development, DSA & System Design**
 * 💡 Building **Smart Parking System (IoT + Web + Firebase)**
 * 🎯 Targeting **Product-based companies startups & MNCs**
 * ⚡ Passionate about scalable backend systems
