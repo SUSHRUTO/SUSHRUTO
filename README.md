@@ -43,7 +43,8 @@
 
 ### 🧠 ORM / DB Tools
 ![ORM](https://skillicons.dev/icons?i=prisma)
-<img src="./assets/icons/mongoose.svg" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/drizzle-logo.svg" height="40"/>
 <img src="./assets/icons/drizzle.svg" height="40"/>
 
 ---
@@ -51,8 +52,6 @@
 ### 🛠️ Tools
 
 ![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
-<img src="./assets/icons/cursor.svg" height="40"/>
-<img src="./assets/icons/zed.svg" height="40"/>
 
 ---
 
