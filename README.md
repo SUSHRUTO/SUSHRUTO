@@ -31,19 +31,33 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongoose" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 
 ---
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+
+---
+
+### 🧠 ORM / DB Tools
+![ORM](https://skillicons.dev/icons?i=prisma)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
 
 ---
 
 ### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge)
+
+---
+
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,python)
 
 ---
 
