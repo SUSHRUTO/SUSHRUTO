@@ -31,7 +31,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,drizzle,prisma" />
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,Cursor,Zed,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
 
 ---
 
