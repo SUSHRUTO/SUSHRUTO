@@ -43,7 +43,7 @@
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,cursor,zed,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,Cursor,Zed,aws" />
 
 ---
 
