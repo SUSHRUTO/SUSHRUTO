@@ -25,7 +25,7 @@
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nestjs,tailwind" />
 
 ---
 
@@ -37,13 +37,13 @@
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase" />
 
 ---
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,cursor,zed,aws" />
 
 ---
 
