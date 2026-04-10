@@ -50,7 +50,7 @@
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,aws" />
+![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge)
 
