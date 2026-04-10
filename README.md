@@ -37,7 +37,7 @@
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
 
 ---
 
