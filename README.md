@@ -31,7 +31,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,drizzle orm,prisma,mongoose" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongoose" />
 
 ---
 
