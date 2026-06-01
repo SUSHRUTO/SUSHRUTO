@@ -31,13 +31,13 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,zod,WebSocket,REST APIs,tRPC" />
 
 ---
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,neondb" />
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 🛠️ Tools
 
-![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
+![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,Postman,Requestly)
 
 ---
 
