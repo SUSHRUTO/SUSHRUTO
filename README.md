@@ -31,7 +31,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,zod,WebSocket,REST APIs,tRPC" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,zod,WebSocket,REST API,tRPC" />
 
 ---
 
