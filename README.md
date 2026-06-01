@@ -31,7 +31,7 @@
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,zod,WebSocket,REST API" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,zod,WebSocket" />
 
 ---
 
@@ -50,7 +50,7 @@
 
 ### 🛠️ Tools
 
-![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,Postman,Requestly)
+![Tools](https://skillicons.dev/icons?i=aws,docker,git,github,vscode,cursor,claude,codex,Postman)
 
 ---
 
